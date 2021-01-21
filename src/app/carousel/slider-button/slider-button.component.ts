@@ -19,7 +19,7 @@ export class SliderButtonComponent implements OnInit, AfterViewInit {
   }
 
   ngAfterViewInit() {
-    this.text = "<span>&#8249</span>";
+    //this.text = "<span>&#8249</span>";
   }
 
 }
